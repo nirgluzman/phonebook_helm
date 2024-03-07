@@ -3,12 +3,22 @@ entries:
   phonebook:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-03-07T19:07:28.306276577Z"
+    created: "2024-03-07T19:17:27.389612616Z"
     description: A Helm chart for Kubernetes
-    digest: 338a9703e9e7bb647ebc7b8d60e23cf581acd147aa51bd24cd472a18932e711b
+    digest: 89584d478136e7de62a9798e2aec7b5c741d7f388e8661bef85813c7fc1597ce
+    name: phonebook
+    type: application
+    urls:
+    - phonebook-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-03-07T19:17:27.388922943Z"
+    description: A Helm chart for Kubernetes
+    digest: 64c26ef0bfff2399bf2e8c122d9f8745a7a2664669ce589a0674897194a21da0
     name: phonebook
     type: application
     urls:
     - phonebook-0.1.0.tgz
     version: 0.1.0
-generated: "2024-03-07T19:07:28.303789558Z"
+generated: "2024-03-07T19:17:27.388366482Z"
